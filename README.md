@@ -4,8 +4,8 @@
 
 <div align="center" dir="auto">
   <a href="https://github.com/julioaguillar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julioaguillar&show_icons=true&theme=dracula">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioaguillar&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=julioaguillar&show_icons=true&theme=dracula">  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioaguillar&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
 </a></div>
 
 <div dir="auto"><br>  
