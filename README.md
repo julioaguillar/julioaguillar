@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Júlio César
 
-- 🔭 Atualmente trabalho com desenvolvimento de software voltado para Automação Comercial e Gestão Pública
+- 💻 Atualmente trabalho com desenvolvimento de software voltado para Automação Comercial e Gestão Pública
 
 <div align="center" dir="auto">
   <a href="https://github.com/julioaguillar">
@@ -12,8 +12,7 @@
   <img align="center" alt="Delphi" height="30" width="30" src="https://www.embarcadero.com/images/logos/delphi-logo-128.png" style="max-width: 100%;">  
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="max-width: 100%;">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" style="max-width: 100%;">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">  
-  <img align="center" alt="Firebird" height="30" width="30" src="https://firebirdsql.org/file/about/firebird-logo-32.png" style="max-width: 100%;">  
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">   <img align="center" alt="Firebird" height="30" width="30" src="https://firebirdsql.org/file/about/firebird-logo-32.png" style="max-width: 100%;">  
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" style="max-width: 100%;">  
   <img align="center" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" style="max-width: 100%;">
