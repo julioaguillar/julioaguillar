@@ -1,4 +1,4 @@
-## Olá! Meu nome é Júlio César
+## Olá!
 
 - 💻 Atualmente trabalho com desenvolvimento de software voltado para Automação Comercial e Gestão Pública
 
