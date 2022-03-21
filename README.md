@@ -28,4 +28,6 @@
 
 ##
 
+<!--
 ![Snake animation](https://github.com/julioaguillar/julioaguillar/blob/output/github-contribution-grid-snake.svg)
+-->
